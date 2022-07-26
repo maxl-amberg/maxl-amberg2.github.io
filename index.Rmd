@@ -1,6 +1,6 @@
 ---
 title: "Maximilian Amberg"
-image: "maxl.jpeg"
+image: "TØI_photo_colors_new.jpeg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/maximilian-amberg-bab043183/"
@@ -8,9 +8,11 @@ links:
     url: "https://twitter.com/AmbergMaxl"
   - label: GitHub
     url: "https://github.com/maxl-amberg"
-  - label: Email (private)
-    url: "mailto:maxl-amberg@posteo.de"
-  - label: Email (work)
+#  - label: Phone
+#    url: "+49 17657875740"
+#  - label: Email (private)
+#    url: "mailto:maxl-amberg@posteo.de"
+  - label: E-Mail (work)
     url: "mailto:amberg@mcc-berlin.com"
 output:
   postcards::trestles
@@ -28,22 +30,34 @@ output:
 
 ## Bio
 
-My name is Maximilian Amberg and I am ...
-My main interests are ...
-Main methods
+My name is Maximilian Amberg and I am a PhD Candidate in the working group [Economic Growth and Human Development](https://www.mcc-berlin.net/forschung/arbeitsgruppen/wirtschaftswachstum-und-menschliche-entwicklung.html) at [MCC Berlin](https://www.mcc-berlin.net/en/index.html). By focusing on rigorous evaluations of current climate change mitigation policies, I seek to contribute to the recent policy debates regarding their efficiency as well as welfare and equity impacts. To that end, I combine methodologies for causal impact and welfare analysis with the power of novel datasets to improve public policy making on pressing environmental policy challenges. For details on my education, work experience, etc., see below. 
+
+
+&nbsp;
+
+## Work Address
+
+**Mercator Research Institute on Global Commons and Climate Change (MCC)**
+
+Torgauer Str. 12-15
+
+10829 Berlin
 
 &nbsp;
 
 
 
-
 ## Education
+
+**University of Potsdam** and **MCC Berlin** | Potsdam/Berlin, Germany 
+
+PhD Candidate | Supervisor: Prof. Dr. Matthias Kalkuhl; co-supervisor: Dr. Nicolas Koch | *forthcoming: August 2022 - *
 
 **University of Mannheim** | Mannheim, Germany
 
-M.S. in Economics | August 2019 - December 2021
+M.Sc. in Economics | August 2019 - February 2022
 
-**TU Berlin ** | Berlin, Germany
+**Technical University Berlin ** | Berlin, Germany
 
 Guest Student | April 2019 - July 2019
 
@@ -53,7 +67,7 @@ Erasmus Semester | August 2017 - December 2017
 
 **Heidelberg University** | Heidelberg, Germany
 
-B.S. in Economics | September 2015 - July 2019
+B.Sc. in Economics | September 2015 - July 2019
 
 **Berufliche Schulen Gelnhausen (Wirtschaftsgymnasium)** | Gelnhausen, Germany
 
@@ -66,11 +80,13 @@ A-level | July 2012 - July 2015
 
 ## Experience
 
-**Mercator Research Institute on Global Commons and Climate Change (MCC)** | Working group: Economic Growth and Human Development | Research Assistant | August 2019 - Present | Berlin, Germany
+**MCC Berlin** | Working group: Economic Growth and Human Development | Graduate Research Assistant | March 2022 - Present | Berlin, Germany
 
-**Mercator Research Institute on Global Commons and Climate Change (MCC)** | Working group: Economic Growth and Human Development | Research Internship | April 2019 - July 2019 | Berlin, Germany
+**MCC Berlin** | Working group: Economic Growth and Human Development | Student Assistant | August 2019 - February 2022 | Berlin, Germany
 
-**Heidelberg University** | Chair of Environmental Economics (Prof. Dr. Florian Diekert); NATCOOP (ERC) Project | Student Assistant | August 2018 - March 2019
+**MCC Berlin** | Working group: Economic Growth and Human Development | Research Internship | April 2019 - July 2019 | Berlin, Germany
+
+**Heidelberg University** | Chair of Environmental Economics (Jun.-Prof. Dr. Florian Diekert); NATCOOP (ERC) Project | Student Assistant | August 2018 - March 2019
 
 **Helmholtz Zentrum für Umweltforschung (UFZ)** | Department of Economics | Working group: Energy (Prof. Dr. Erik Gawel) | Research Internship | January 2018 - April 2018 | Leipzig, Germany
 
@@ -81,11 +97,13 @@ A-level | July 2012 - July 2015
 
 ### Fellowships and Grants
 
-**German Academic Scholarship Foundation** | Mai 2019 - Present
+**Exposé Scholarship (German Academic Scholarship Foundation )** | March 2022 - Present
+
+**German Academic Scholarship Foundation** | Mai 2019 - December 2021
 
 **Erasmus Scholarship** | August 2017 - January 2018 
 
-**Cusanuswerk** | September 2015 - Present
+**Cusanuswerk** | September 2015 - January 2022
 
 &nbsp;
 
@@ -94,58 +112,44 @@ A-level | July 2012 - July 2015
 
 ### Computational Skills
 
-**R** (advanced)
+**Programming** | R, Stata (advanced) | Python, MATLAB (intermediate) | GAMS, Java (basics)
 
-**Stata** (advanced)
+**Geographic information** | QGIS/ArcGIS (intermediate)
 
-**Matlab** (intermediate)
+**Version control** | GitHub/GitLab (daily business)
 
-**QGIS/ArcGIS** (intermediate)
-
-**GAMS** (basics)
-
-**Python** (basics)
-
-**Java** (basics)
-
-**GitHub/GitLab** (daily business)
-
-**LaTex/Overleaf** (daily business)
-
-**Word, Excel, PowerPoint** (daily business)
+**Text processing** | LaTex/Overleaf, Word, Excel, PowerPoint (daily business)
 
 &nbsp;
 
 
 
 
-### Own Publications
+### Publications
+
+Kellner, M., Amberg, M., Bergmann, T., Roolfs, C., Kalkuhl, M. (2022). [Entlastungspakete für Energiepreisanstiege: Auswirkungen und Nachbesserungsbedarf.](https://doi.org/10.5281/zenodo.6617130) Zenodo.
+
+Kalkuhl, M., Flachsland, C., Knopf, B., Amberg, M., Bergmann, T., Kellner, M., Stüber, S., Haywood, L., Roolfs, C., Edenhofer, O. (2022). [Auswirkungen der Energiepreiskrise auf Haushalte in Deutschland Sozialpolitische Herausforderungen und Handlungsoptionen.](https://www.mcc-berlin.net/fileadmin/data/C18_MCC_Publications/2022_MCC_Auswirkungen_der_Energiepreiskrise_auf_Haushalte.pdf) MCC Arbeitspapier.
+
+Kopernikus-Projekt Ariadne (2021). [Reformoptionen für ein nachhaltiges Steuer- und Abgabensystem. Wie Lenkungssteuern effektiv und gerecht für den Klima- und Umweltschutz ausgestaltet werden können.](https://ariadneprojekt.de/media/2021/05/Ariadne-Kurzdossier_Steuerreform_Juni2021.pdf) Ariadne Kurzdossier.
+
+Roolfs, C., Kalkuhl, M., Amberg, M., Bergmann, T., Kellner, M. (2021). [Documentation of the CO₂-price incidence webtool ‘MCC CO₂-Preis-Rechner’ (Version 1.0)](http://doi.org/10.5281/zenodo.5094561). Zenodo.
+
+Kalkuhl, M., Amberg, M., Roolfs, C., Bergmann, T., Kellner, M. (2021). [MCC CO₂-Preis-Rechner (Version 1.0)](http://www.mcc-berlin.net/co2preisrechner). 
 
 Gawel, E., Amberg, M. (2018): [Ausschreibungen im EEG – eine Auswertung der bisherigen Erfahrungen](https://www.ufz.de/index.php?de=20939&pub_id=20779). Energiewirtschaftliche Tagesfragen 68 (7/8), 24-30.
 
-Kalkuhl, M., Flachsland, C., Knopf, B., Amberg, M., Bergmann, T., Kellner, M., Stüber, S., Haywood, L., Roolfs, C., Edenhofer, O. (2022): [Auswirkungen der Energiepreiskrise auf Haushalte in Deutschland Sozialpolitische Herausforderungen und Handlungsoptionen](https://www.mcc-berlin.net/fileadmin/data/C18_MCC_Publications/2022_MCC_Auswirkungen_der_Energiepreiskrise_auf_Haushalte.pdf). MCC Arbeitspapier.
-
 &nbsp;
 
 
 
-### Co-Author
-
-Kalkuhl, M., Knopf, B., Edenhofer, O. (2021): [CO2-Bepreisung: Mehr Klimaschutz mit mehr Gerechtigkeit](https://www.mcc-berlin.net/fileadmin/data/C18_MCC_Publications/2021_MCC_Klimaschutz_mit_mehr_Gerechtigkeit.pdf). MCC Arbeitspapier.
-
-&nbsp;
-
-
-
-
-### Contributions
+### Assistance
 
 #### Papers, Reports, and Dossiers
 
-Kopernikus-Projekt Ariadne (2021): [Reformoptionen für ein nachhaltiges Steuer- und Abgabensystem. Wie Lenkungssteuern effektiv und gerecht für den Klima- und Umweltschutz ausgestaltet werden können.](https://ariadneprojekt.de/media/2021/05/Ariadne-Kurzdossier_Steuerreform_Juni2021.pdf), Ariadne-Kurzdossier.
+Kalkuhl, M., Knopf, B., Edenhofer, O. (2021). [CO₂-Bepreisung: Mehr Klimaschutz mit mehr Gerechtigkeit.](https://www.mcc-berlin.net/fileadmin/data/C18_MCC_Publications/2021_MCC_Klimaschutz_mit_mehr_Gerechtigkeit.pdf) MCC Arbeitspapier.
 
-Edenhofer, O., Flachsland, C., Kalkuhl, M., Knopf, B., & Pahle, M. (2019): [Optionen für eine CO2-Preisreform](https://www.mcc-berlin.net/fileadmin/data/B2.3_Publications/Working%20Paper/2019_MCC_Optionen_f%C3%BCr_eine_CO2-Preisreform_final.pdf) (Working Paper Nr. 04/2019; Nummer 04/2019). German Council of Economic Experts / Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung. https://ideas.repec.org/p/zbw/svrwwp/042019.html
-
+Edenhofer, O., Flachsland, C., Kalkuhl, M., Knopf, B., Pahle, M. (2019). [Optionen für eine CO₂-Preisreform. MCC-PIK-Expertise für den Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung.](https://www.mcc-berlin.net/fileadmin/data/B2.3_Publications/Working%20Paper/2019_MCC_Optionen_f%C3%BCr_eine_CO2-Preisreform_final.pdf) Working Paper Nr. 04/2019.
 
 #### Newspaper Articles
 
@@ -155,4 +159,4 @@ Edenhofer, O., Flachsland, C., Kalkuhl, M., Knopf, B., & Pahle, M. (2019): [Opti
 
 [Luftverschmutzung, Überdüngung, Plastikmüll: Erstmals zeigt eine Studie, wie viele Milliarden Deutschland durch Umweltzerstörung verliert](https://www.handelsblatt.com/politik/deutschland/klimaschutz-luftverschmutzung-ueberduengung-plastikmuell-erstmals-zeigt-eine-studie-wie-viele-milliarden-deutschland-durch-umweltzerstoerung-verliert/27241574.html?ticket=ST-8525854-z4Nha7VPFidVeoZRpzAA-ap2) | Handelsblatt | June 2021
 
-[Wie teuer die CO2-Steuer für die Bürger wirklich wird](https://www.wiwo.de/my/politik/deutschland/exklusive-berechnungen-wie-teuer-die-co2-steuer-fuer-die-buerger-wirklich-wird/24274708.html) | WirtschaftsWoche | May 2019
+[Wie teuer die CO₂-Steuer für die Bürger wirklich wird](https://www.wiwo.de/my/politik/deutschland/exklusive-berechnungen-wie-teuer-die-co2-steuer-fuer-die-buerger-wirklich-wird/24274708.html) | WirtschaftsWoche | May 2019
