@@ -30,7 +30,7 @@ output:
 
 ## Bio
 
-My name is Maximilian Amberg and I am a PhD Candidate in the working group [Economic Growth and Human Development](https://www.mcc-berlin.net/forschung/arbeitsgruppen/wirtschaftswachstum-und-menschliche-entwicklung.html) at [MCC Berlin](https://www.mcc-berlin.net/en/index.html). By focusing on rigorous evaluations of current climate change mitigation policies, I seek to contribute to the recent policy debates regarding their efficiency as well as welfare and equity impacts. To that end, I combine methodologies for causal impact and welfare analysis with the power of novel datasets to improve public policy making on pressing environmental policy challenges. For details on my education, work experience, etc., see below. 
+My name is Maximilian Amberg and I am a PhD candidate in the working group [Economic Growth and Human Development](https://www.mcc-berlin.net/forschung/arbeitsgruppen/wirtschaftswachstum-und-menschliche-entwicklung.html) at [MCC Berlin](https://www.mcc-berlin.net/en/index.html). By focusing on rigorous evaluations of current climate change mitigation policies, I seek to contribute to the recent policy debates regarding their efficiency as well as welfare and equity impacts. To that end, I combine methodologies for causal impact and welfare analysis with the power of novel datasets to improve public policy making on pressing environmental policy challenges. For details on my education, work experience, etc., see below. 
 
 &nbsp;
 
